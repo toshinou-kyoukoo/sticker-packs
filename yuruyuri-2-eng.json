@@ -1,0 +1,17 @@
+{
+  "name": "YURU-YURI 2 ENGLISH",
+  "id": "yuruyuri-2-eng",
+  "files": [
+    "043_13831752.png",
+    "057_13831766.png",
+    "060_13831769.png",
+    "064_13831773.png",
+    "067_13831776.png",
+    "070_13831779.png",
+    "075_13831784.png",
+    "079_13831788.png",
+    "080_13831789.png"
+  ],
+  "template": "https://raw.githubusercontent.com/toshinou-kyoukoo/sticker_packs/refs/heads/main/yuruyuri-2-eng/%id%",
+  "updateUrl": "https://raw.githubusercontent.com/toshinou-kyoukoo/sticker_packs/refs/heads/main/yuruyuri-2-eng.json"
+}
